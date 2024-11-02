@@ -2,6 +2,7 @@
   "name": "my-manga-list",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://KenKaiZhang.github.io/my-manga-list",
   "dependencies": {
     "@radix-ui/react-aspect-ratio": "^1.1.0",
     "@radix-ui/react-dialog": "^1.1.2",
