@@ -1,0 +1,938 @@
+[
+    {
+        "id": "ed5dddc0-999d-4fd2-a702-9fef1ec2c955",
+        "title": "Blue Box",
+        "author": "Miura Kouji",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "sports",
+            "drama",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/ed5dddc0-999d-4fd2-a702-9fef1ec2c955/42c366fd-e674-4148-885c-893542af7e28.jpg.512.jpg"
+    },
+    {
+        "id": "a96676e5-8ae2-425e-b549-7f15dd34a6d8",
+        "title": "Komi-san wa Komyushou Desu",
+        "author": "Oda Tomohito",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "award winning",
+            "romance",
+            "comedy",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/a96676e5-8ae2-425e-b549-7f15dd34a6d8/dc04f7c6-6794-47f8-86f4-11177b256dc3.jpg.512.jpg"
+    },
+    {
+        "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+        "title": "Dandadan",
+        "author": "Tatsu Yukinobu",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "sci-fi",
+            "monsters",
+            "action",
+            "ghosts",
+            "romance",
+            "comedy",
+            "magic",
+            "drama",
+            "school life",
+            "horror",
+            "monster girls",
+            "slice of life",
+            "aliens",
+            "supernatural",
+            "mystery"
+        ],
+        "cover": "https://mangadex.org/covers/68112dc1-2b80-4f20-beb8-2f2a8716a430/8abb8476-b6a7-4eb0-b3a6-b479cba583e5.jpg.512.jpg"
+    },
+    {
+        "id": "00446151-d199-45d6-8671-821db1151e6c",
+        "title": "Juujika no Rokunin",
+        "author": "Nakatake Shiryuu",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "thriller",
+            "psychological",
+            "sexual violence",
+            "harem",
+            "gore",
+            "drama",
+            "tragedy"
+        ],
+        "cover": "https://mangadex.org/covers/00446151-d199-45d6-8671-821db1151e6c/ab44f350-e6b8-48f7-8e7f-8f30702ff64f.jpg.512.jpg"
+    },
+    {
+        "id": "6a1d1cb1-ecd5-40d9-89ff-9d88e40b136b",
+        "title": "Tokyo Ghoul",
+        "author": "Ishida Sui",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "action",
+            "psychological",
+            "gore",
+            "horror",
+            "supernatural",
+            "tragedy"
+        ],
+        "cover": "https://mangadex.org/covers/6a1d1cb1-ecd5-40d9-89ff-9d88e40b136b/98c90b96-db95-4c15-a407-eb70a3b6cf96.jpg.512.jpg"
+    },
+    {
+        "id": "4f3bcae4-2d96-4c9d-932c-90181d9c873e",
+        "title": "Boku no Hero Academia",
+        "author": "Horikoshi Kouhei",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "thriller",
+            "sci-fi",
+            "monsters",
+            "action",
+            "romance",
+            "comedy",
+            "crime",
+            "superhero",
+            "drama",
+            "delinquents",
+            "monster girls",
+            "police",
+            "web comic",
+            "slice of life",
+            "supernatural"
+        ],
+        "cover": "https://mangadex.org/covers/4f3bcae4-2d96-4c9d-932c-90181d9c873e/b7ba8b27-0e08-4d6f-9616-ebbb6cc33a01.jpg.512.jpg"
+    },
+    {
+        "id": "aa6c76f7-5f5f-46b6-a800-911145f81b9b",
+        "title": "Sono Bisque Doll wa Koi o Suru",
+        "author": "Fukuda Shinichi",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "crossdressing",
+            "school life",
+            "slice of life",
+            "gyaru"
+        ],
+        "cover": "https://mangadex.org/covers/aa6c76f7-5f5f-46b6-a800-911145f81b9b/426242c4-b281-4f19-bb79-c4e15ab6bb24.jpg.512.jpg"
+    },
+    {
+        "id": "87ffa375-bd2c-49ba-ba0c-6d78ea07c342",
+        "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+        "author": "Kuze Ran",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "harem",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/87ffa375-bd2c-49ba-ba0c-6d78ea07c342/32f6ec68-fbb3-4893-9b24-27789804cdf6.jpg.512.jpg"
+    },
+    {
+        "id": "227e3f72-863f-46f9-bafe-c43104ca29ee",
+        "title": "Fairy Tail",
+        "author": "Mashima Hiro",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "loli",
+            "monsters",
+            "action",
+            "ghosts",
+            "animals",
+            "romance",
+            "comedy",
+            "samurai",
+            "adventure",
+            "magic",
+            "drama",
+            "fantasy",
+            "monster girls",
+            "web comic",
+            "slice of life",
+            "supernatural",
+            "mystery"
+        ],
+        "cover": "https://mangadex.org/covers/227e3f72-863f-46f9-bafe-c43104ca29ee/a74a86c4-0585-453a-8027-d6732d742dd6.jpg.512.jpg"
+    },
+    {
+        "id": "dd8a907a-3850-4f95-ba03-ba201a8399e3",
+        "title": "Fullmetal Alchemist",
+        "author": "Arakawa Hiromu",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "thriller",
+            "award winning",
+            "sci-fi",
+            "monsters",
+            "action",
+            "psychological",
+            "comedy",
+            "survival",
+            "adventure",
+            "magic",
+            "military",
+            "philosophical",
+            "drama",
+            "fantasy",
+            "delinquents",
+            "police",
+            "slice of life",
+            "supernatural",
+            "tragedy"
+        ],
+        "cover": "https://mangadex.org/covers/dd8a907a-3850-4f95-ba03-ba201a8399e3/a9cd0207-1b86-4738-a2b5-3575c32d5315.jpg.512.jpg"
+    },
+    {
+        "id": "6b958848-c885-4735-9201-12ee77abcb3c",
+        "title": "SPY × FAMILY",
+        "author": "Endou Tatsuya",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "award winning",
+            "action",
+            "animals",
+            "romance",
+            "comedy",
+            "martial arts",
+            "adventure",
+            "school life",
+            "police",
+            "slice of life",
+            "supernatural"
+        ],
+        "cover": "https://mangadex.org/covers/6b958848-c885-4735-9201-12ee77abcb3c/bc9a093b-f67f-454f-9c92-fcdd045f4dc0.jpg.512.jpg"
+    },
+    {
+        "id": "37f5cce0-8070-4ada-96e5-fa24b1bd4ff9",
+        "title": "Kaguya-sama: Love is War",
+        "author": "Akasaka Aka",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "award winning",
+            "romance",
+            "comedy",
+            "drama",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/37f5cce0-8070-4ada-96e5-fa24b1bd4ff9/7bb3b2c6-6a26-4bad-9758-d35d329c32f8.jpg.512.jpg"
+    },
+    {
+        "id": "ce7cd7b0-e595-4f0d-98e8-447da10d652d",
+        "title": "Mission: Yozakura Family",
+        "author": "Gondaira Hitsuji",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "action",
+            "romance",
+            "comedy"
+        ],
+        "cover": "https://mangadex.org/covers/ce7cd7b0-e595-4f0d-98e8-447da10d652d/36ccb7a8-266f-4417-9380-be7e517b53b8.jpg.512.jpg"
+    },
+    {
+        "id": "237d527f-adb5-420e-8e6e-b7dd006fbe47",
+        "title": "Kaiju No. 8",
+        "author": "Matsumoto Naoya",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "sci-fi",
+            "monsters",
+            "action",
+            "comedy",
+            "martial arts",
+            "military",
+            "drama",
+            "horror",
+            "aliens",
+            "supernatural"
+        ],
+        "cover": "https://mangadex.org/covers/237d527f-adb5-420e-8e6e-b7dd006fbe47/1a2b3e4c-1a06-4d77-aa38-48753bc3cb98.jpg.512.jpg"
+    },
+    {
+        "id": "e1e38166-20e4-4468-9370-187f985c550e",
+        "title": "Mato Seihei no Slave",
+        "author": "Takahiro",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "sci-fi",
+            "monsters",
+            "action",
+            "demons",
+            "romance",
+            "comedy",
+            "adventure",
+            "magic",
+            "harem",
+            "military",
+            "drama",
+            "monster girls",
+            "supernatural"
+        ],
+        "cover": "https://mangadex.org/covers/e1e38166-20e4-4468-9370-187f985c550e/2e418d11-579c-4078-a960-60781115efc9.jpg.512.jpg"
+    },
+    {
+        "id": "a1c7c817-4e59-43b7-9365-09675a149a6f",
+        "title": "One Piece",
+        "author": "Oda Eiichiro",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "award winning",
+            "sci-fi",
+            "monsters",
+            "action",
+            "animals",
+            "comedy",
+            "crime",
+            "adventure",
+            "gore",
+            "drama",
+            "fantasy",
+            "supernatural"
+        ],
+        "cover": "https://mangadex.org/covers/a1c7c817-4e59-43b7-9365-09675a149a6f/a4ab0d6b-6f05-4b51-b06d-2653663808e2.jpg.512.jpg"
+    },
+    {
+        "id": "6ce4c88e-381e-4c4a-a858-7585fff92f47",
+        "title": "Bokutachi wa Benkyou ga Dekinai",
+        "author": "Tsutsui Taishi",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "harem",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/6ce4c88e-381e-4c4a-a858-7585fff92f47/6b0e310a-d4fc-4a4e-8233-2ea0a7eca4bb.jpg.512.jpg"
+    },
+    {
+        "id": "4ec3e6b3-18bf-4964-9c87-1f287d3398f4",
+        "title": "Hori-san to Miyamura-kun",
+        "author": "Hero",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "school life",
+            "web comic"
+        ],
+        "cover": "https://mangadex.org/covers/4ec3e6b3-18bf-4964-9c87-1f287d3398f4/580d19d3-bcf6-46c3-876e-d8d8ac3897a3.jpg.512.jpg"
+    },
+    {
+        "id": "cddd1849-ab36-4304-8103-06ba4062b5e6",
+        "title": "Kubo-san wa Mob wo Yurusanai",
+        "author": "Yukimori Nene",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/cddd1849-ab36-4304-8103-06ba4062b5e6/ab69684f-ac25-4dc9-91f1-995ef3fced4a.jpg.512.jpg"
+    },
+    {
+        "id": "4141c5dc-c525-4df5-afd7-cc7d192a832f",
+        "title": "Blue Lock",
+        "author": "Kaneshiro Muneyuki",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "thriller",
+            "award winning",
+            "action",
+            "psychological",
+            "sports",
+            "drama",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/4141c5dc-c525-4df5-afd7-cc7d192a832f/75d972e8-6033-4c11-82c2-06610c21643e.jpg.512.jpg"
+    },
+    {
+        "id": "133ec785-0677-4e22-8186-e15ed0621c36",
+        "title": "Amano Megumi wa Suki Darake!",
+        "author": "Nekoguchi",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "sports",
+            "drama",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/133ec785-0677-4e22-8186-e15ed0621c36/2e17e127-60b8-4614-8651-7bb07cba1bec.jpg.512.jpg"
+    },
+    {
+        "id": "59f47645-66a9-443e-8228-788313c3ae3c",
+        "title": "Tokyo Ghoul:re",
+        "author": "Ishida Sui",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "action",
+            "psychological",
+            "gore",
+            "horror",
+            "supernatural",
+            "tragedy"
+        ],
+        "cover": "https://mangadex.org/covers/59f47645-66a9-443e-8228-788313c3ae3c/c41d1081-cdb2-4c90-8028-61844823515b.jpg.512.jpg"
+    },
+    {
+        "id": "a2febd3e-6252-46eb-bd63-01d51deaaec5",
+        "title": "5Toubun no Hanayome",
+        "author": "Haruba Negi",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "award winning",
+            "romance",
+            "comedy",
+            "harem",
+            "drama",
+            "school life"
+        ],
+        "cover": "https://mangadex.org/covers/a2febd3e-6252-46eb-bd63-01d51deaaec5/a0c01f7c-1c64-43d8-b254-a40c5359292c.jpg.512.jpg"
+    },
+    {
+        "id": "ce16b1c3-d6bb-41e0-8671-d8b065248ba2",
+        "title": "Nisekoi: False Love",
+        "author": "Komi Naoshi",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "mafia",
+            "harem",
+            "slice of life",
+            "school life"
+        ],
+        "cover": "https://mangadex.org/covers/ce16b1c3-d6bb-41e0-8671-d8b065248ba2/b290bdfc-acd3-4aec-9447-fd69801d1ea4.jpg.512.jpg"
+    },
+    {
+        "id": "3ee952f1-45c7-4c39-aea2-7df7676606d4",
+        "title": "Ao no Exorcist",
+        "author": "Katou Kazue",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "monsters",
+            "action",
+            "demons",
+            "adventure",
+            "magic",
+            "gore",
+            "school life",
+            "fantasy",
+            "supernatural"
+        ],
+        "cover": "https://mangadex.org/covers/3ee952f1-45c7-4c39-aea2-7df7676606d4/70b61179-7ded-4a20-b4bb-2bbaaa2e9192.jpg.512.jpg"
+    },
+    {
+        "id": "789642f8-ca89-4e4e-8f7b-eee4d17ea08b",
+        "title": "Kimetsu no Yaiba",
+        "author": "Gotouge Koyoharu",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "historical",
+            "action",
+            "demons",
+            "comedy",
+            "martial arts",
+            "adventure",
+            "drama",
+            "supernatural",
+            "tragedy"
+        ],
+        "cover": "https://mangadex.org/covers/789642f8-ca89-4e4e-8f7b-eee4d17ea08b/60530e72-f76f-45d5-b6f9-f95e05058fc3.png"
+    },
+    {
+        "id": "b0b721ff-c388-4486-aa0f-c2b0bb321512",
+        "title": "Sousou no Frieren",
+        "author": "Yamada Kanehito",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "award winning",
+            "monsters",
+            "demons",
+            "adventure",
+            "magic",
+            "drama",
+            "fantasy",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/b0b721ff-c388-4486-aa0f-c2b0bb321512/f812f3d4-f1df-40ce-bd3c-dcc0fd0eb17b.jpg.512.jpg"
+    },
+    {
+        "id": "4bde51e5-e420-45a4-98e9-7405bf2d59ff",
+        "title": "Koe no Katachi",
+        "author": "Ooima Yoshitoki",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "award winning",
+            "romance",
+            "drama",
+            "school life"
+        ],
+        "cover": "https://mangadex.org/covers/4bde51e5-e420-45a4-98e9-7405bf2d59ff/2f8d133a-cf64-442a-9c79-cde975f6ae0c.jpg.512.jpg"
+    },
+    {
+        "id": "418791c0-35cf-4f87-936b-acd9cddf0989",
+        "title": "Kaoru Hana wa Rin to Saku",
+        "author": "Mikami Saka",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "drama",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/418791c0-35cf-4f87-936b-acd9cddf0989/d03cc3e1-2d4d-46de-b494-12d99261c67c.jpg.512.jpg"
+    },
+    {
+        "id": "59b36734-f2d6-46d7-97c0-06cfd2380852",
+        "title": "Tokyo 卍 Revengers",
+        "author": "Wakui Ken",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "action",
+            "comedy",
+            "drama",
+            "delinquents",
+            "tragedy"
+        ],
+        "cover": "https://mangadex.org/covers/59b36734-f2d6-46d7-97c0-06cfd2380852/3676571a-9d2b-48e6-8639-d4591725759a.jpg.512.jpg"
+    },
+    {
+        "id": "a77742b1-befd-49a4-bff5-1ad4e6b0ef7b",
+        "title": "Chainsaw Man",
+        "author": "Fujimoto Tatsuki",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "award winning",
+            "monsters",
+            "action",
+            "demons",
+            "comedy",
+            "gore",
+            "horror",
+            "supernatural"
+        ],
+        "cover": "https://mangadex.org/covers/a77742b1-befd-49a4-bff5-1ad4e6b0ef7b/bdd44bcd-c0dc-4f83-ba15-fc99e8790ed4.jpg.512.jpg"
+    },
+    {
+        "id": "c52b2ce3-7f95-469c-96b0-479524fb7a1a",
+        "title": "Jujutsu Kaisen",
+        "author": "Akutami Gege",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "gore",
+            "thriller",
+            "monster",
+            "action",
+            "ghosts",
+            "martial arts",
+            "magic",
+            "drama",
+            "school life",
+            "supernatural",
+            "mystery",
+            "tragedy"
+        ],
+        "cover": "https://mangadex.org/covers/c52b2ce3-7f95-469c-96b0-479524fb7a1a/75ff8127-5b3e-49eb-a375-654ed28675ec.jpg.512.jpg"
+    },
+    {
+        "id": "b3b6fa42-08df-4663-b827-caaa49c7ccbf",
+        "title": "Kimi ni Todoke: From Me to You",
+        "author": "Shiina Karuho",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "award winning",
+            "psychological",
+            "romance",
+            "comedy",
+            "drama",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/b3b6fa42-08df-4663-b827-caaa49c7ccbf/879aa43d-50cf-4ddb-9deb-1af208d8ce97.jpg.512.jpg"
+    },
+    {
+        "id": "333f4d22-7753-4e3b-b0da-0a69b2cdce4f",
+        "title": "Assassination Classroom",
+        "author": "Matsui Yuusei",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "sci-fi",
+            "action",
+            "comedy",
+            "survival",
+            "martial arts",
+            "military",
+            "drama",
+            "school life",
+            "mystery"
+        ],
+        "cover": "https://mangadex.org/covers/333f4d22-7753-4e3b-b0da-0a69b2cdce4f/ad3292cf-416c-4d05-9e7a-78432c45fe35.jpg.512.jpg"
+    },
+    {
+        "id": "3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac",
+        "title": "The Dangers in My Heart",
+        "author": "Sakurai Norio",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "award winning",
+            "romance",
+            "comedy",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/3df1a9a3-a1be-47a3-9e90-9b3e55b1d0ac/60b13fdd-6541-48e5-9181-fe1903d840f5.jpg.512.jpg"
+    },
+    {
+        "id": "cfc3d743-bd89-48e2-991f-63e680cc4edf",
+        "title": "Dr. STONE",
+        "author": "Inagaki Riichiro",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "sci-fi",
+            "time travel",
+            "action",
+            "comedy",
+            "adventure",
+            "drama",
+            "mystery"
+        ],
+        "cover": "https://mangadex.org/covers/cfc3d743-bd89-48e2-991f-63e680cc4edf/1905884c-adc0-4651-aea2-c061c9f02763.jpg.512.jpg"
+    },
+    {
+        "id": "3fba42cf-2ad6-4c30-a7ab-46cb8149208a",
+        "title": "Bungou Stray Dogs",
+        "author": "Asagiri Kafka",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "action",
+            "crime",
+            "mafia",
+            "military",
+            "drama",
+            "vampires",
+            "police",
+            "supernatural",
+            "mystery"
+        ],
+        "cover": "https://mangadex.org/covers/3fba42cf-2ad6-4c30-a7ab-46cb8149208a/0c8ba16a-9be8-45ed-9b66-1ef7127be75f.jpg.512.jpg"
+    },
+    {
+        "id": "46e9cae5-4407-4576-9b9e-4c517ae9298e",
+        "title": "The Promised Neverland",
+        "author": "Shirai Kaiu",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "thriller",
+            "award winning",
+            "action",
+            "demons",
+            "psychological",
+            "comedy",
+            "survival",
+            "adventure",
+            "gore",
+            "drama",
+            "horror",
+            "slice of life",
+            "supernatural",
+            "mystery",
+            "tragedy"
+        ],
+        "cover": "https://mangadex.org/covers/46e9cae5-4407-4576-9b9e-4c517ae9298e/a5677919-ce8c-438e-8eb8-cabcb4d906a1.jpg.512.jpg"
+    },
+    {
+        "id": "e97fdc93-21ec-47e0-b676-e45d67068932",
+        "title": "Sweat and Soap",
+        "author": "Yamada Kintetsu",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "office workers",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/e97fdc93-21ec-47e0-b676-e45d67068932/6d14c655-fe33-4cab-8e8d-b6900d5b6af9.jpg.512.jpg"
+    },
+    {
+        "id": "6d6d9fda-5cd3-40ac-948b-776b1a1a0eb1",
+        "title": "Sukinako ga Megane wo Wasureta",
+        "author": "Fujichika Koume",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/6d6d9fda-5cd3-40ac-948b-776b1a1a0eb1/e56be766-2872-4edf-a3b3-74d32ecd9096.jpg.512.jpg"
+    },
+    {
+        "id": "acdbf57f-bf54-41b4-8d92-b3f3d14c852e",
+        "title": "Aishiteru game wo owarasetai",
+        "author": "Doumoto Yuuki",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "school life",
+            "web comic"
+        ],
+        "cover": "https://mangadex.org/covers/acdbf57f-bf54-41b4-8d92-b3f3d14c852e/2e239897-0808-4d2f-bc05-9e12b36b361f.jpg.512.jpg"
+    },
+    {
+        "id": "29ab6984-7c1d-4d45-b925-25aa082b492e",
+        "title": "Shangri-La Frontier",
+        "author": "katarina",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "thriller",
+            "award winning",
+            "sci-fi",
+            "monsters",
+            "action",
+            "animals",
+            "comedy",
+            "survival",
+            "zombies",
+            "martial arts",
+            "samurai",
+            "adventure",
+            "virtual reality",
+            "video games",
+            "magic",
+            "drama",
+            "fantasy",
+            "monster girls",
+            "slice of life",
+            "adaptation"
+        ],
+        "cover": "https://mangadex.org/covers/29ab6984-7c1d-4d45-b925-25aa082b492e/82d8bdc4-7af0-45aa-ad0f-cb55b28754d4.jpg.512.jpg"
+    },
+    {
+        "id": "00893d86-c910-4247-b5cb-a2a0e0380012",
+        "title": "Ao no Flag",
+        "author": "Kaito",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "boys' love",
+            "drama",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/00893d86-c910-4247-b5cb-a2a0e0380012/f0f68fd1-2129-433b-a2a9-d9b6666b8587.jpg.512.jpg"
+    },
+    {
+        "id": "9eb78304-0436-484d-9a79-a925b45e2731",
+        "title": "Wind Breaker",
+        "author": "Nii Satoru",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "action",
+            "comedy",
+            "martial arts",
+            "school life",
+            "delinquents",
+            "web comic",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/9eb78304-0436-484d-9a79-a925b45e2731/e5f76272-75ce-41a0-a38c-6dc031cb698e.jpg.512.jpg"
+    },
+    {
+        "id": "11bfa371-f53f-42b7-8213-94b1323b02b6",
+        "title": "Yubisaki to Renren",
+        "author": "Morishita Suu",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "award winning",
+            "romance",
+            "drama",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/11bfa371-f53f-42b7-8213-94b1323b02b6/f655e4d3-1c83-4b6d-b9e7-9e658f4272b3.jpg.512.jpg"
+    },
+    {
+        "id": "99af94f5-04c2-424b-8438-0c8386b0ec5f",
+        "title": "Insomniacs After School",
+        "author": "Ojiro Makoto",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "psychological",
+            "romance",
+            "comedy",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/99af94f5-04c2-424b-8438-0c8386b0ec5f/d93faaa3-3fe9-4995-a191-95fbc592b8a0.jpg.512.jpg"
+    },
+    {
+        "id": "eb5c81e8-5d5b-4552-b582-ee9c29c5368b",
+        "title": "Fuuka",
+        "author": "Seo Kouji",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "adventure",
+            "drama",
+            "school life",
+            "slice of life",
+            "supernatural",
+            "music",
+            "tragedy"
+        ],
+        "cover": "https://mangadex.org/covers/eb5c81e8-5d5b-4552-b582-ee9c29c5368b/0e60885a-b2b7-42e8-b4a0-bc16b0dcaf1f.jpg.512.jpg"
+    },
+    {
+        "id": "622d9a81-11d3-433b-819b-d3d882c8213d",
+        "title": "Sweetness and Lightning",
+        "author": "Amagakure Gido",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "psychological",
+            "romance",
+            "comedy",
+            "drama",
+            "school life",
+            "slice of life",
+            "cooking",
+            "tragedy"
+        ],
+        "cover": "https://mangadex.org/covers/622d9a81-11d3-433b-819b-d3d882c8213d/860f941b-1533-45d5-9339-84b7a91fe84e.jpg.512.jpg"
+    },
+    {
+        "id": "a3e48f50-d3d1-4d08-b54a-a3b7ad4b0801",
+        "title": "How to Grill Our Love",
+        "author": "Hanatsuka Shiori",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "office workers",
+            "slice of life",
+            "cooking"
+        ],
+        "cover": "https://mangadex.org/covers/a3e48f50-d3d1-4d08-b54a-a3b7ad4b0801/caedc636-6a59-43fe-a448-b1db1db05759.jpg.512.jpg"
+    },
+    {
+        "id": "472960b1-369b-4fd4-8e5f-21feecebb6c3",
+        "title": "Kanojo to Kare no Kankei ~Heibon na Hayakawa-san to Heibon na Miura-kun no Hibon na Kankei~",
+        "author": "Eiko Mutsuhana",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "school life",
+            "slice of life",
+            "adaptation"
+        ],
+        "cover": "https://mangadex.org/covers/472960b1-369b-4fd4-8e5f-21feecebb6c3/acc650c3-b345-49cf-a7d3-6d39fff081d0.jpg.512.jpg"
+    },
+    {
+        "id": "b65fbf0e-6768-407d-ba79-fa9fcb319155",
+        "title": "Hope You're Happy, Lemon",
+        "author": "Kishikawa Mizuki",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "genderswap",
+            "romance",
+            "comedy",
+            "drama",
+            "supernatural"
+        ],
+        "cover": "https://mangadex.org/covers/b65fbf0e-6768-407d-ba79-fa9fcb319155/f32b60f1-6078-4c3a-84c5-19d8840de537.jpg.512.jpg"
+    },
+    {
+        "id": "4413d794-e0da-4a6e-b61a-afd5758914e6",
+        "title": "Hanninmae no Koibito",
+        "author": "Kawada Daichi",
+        "ongoing": true,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "school life",
+            "slice of life"
+        ],
+        "cover": "https://mangadex.org/covers/4413d794-e0da-4a6e-b61a-afd5758914e6/080815fb-5008-42e7-9e38-387fc8840eed.jpg.512.jpg"
+    },
+    {
+        "id": "bb5d9e0b-3736-432b-b3fe-dc08920243e9",
+        "title": "Masamune-kun no Revenge",
+        "author": "Takeoka Hazuki",
+        "ongoing": false,
+        "chapters": 0,
+        "tags": [
+            "romance",
+            "comedy",
+            "drama",
+            "school life"
+        ],
+        "cover": "https://mangadex.org/covers/bb5d9e0b-3736-432b-b3fe-dc08920243e9/cc8c7273-37b0-4215-bf20-bd550b3f5474.jpg.512.jpg"
+    }
+]
