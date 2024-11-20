@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-manga-list/static/css/main.bbbb7872.css",
-    "main.js": "/my-manga-list/static/js/main.3bbbabe6.js",
+    "main.js": "/my-manga-list/static/js/main.8bdbabab.js",
     "index.html": "/my-manga-list/index.html",
     "main.bbbb7872.css.map": "/my-manga-list/static/css/main.bbbb7872.css.map",
-    "main.3bbbabe6.js.map": "/my-manga-list/static/js/main.3bbbabe6.js.map"
+    "main.8bdbabab.js.map": "/my-manga-list/static/js/main.8bdbabab.js.map"
   },
   "entrypoints": [
     "static/css/main.bbbb7872.css",
-    "static/js/main.3bbbabe6.js"
+    "static/js/main.8bdbabab.js"
   ]
 }
