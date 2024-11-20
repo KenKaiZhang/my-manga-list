@@ -55,7 +55,7 @@ const MangaList: React.FC<MangaListProps> = ({ mangas, status, search, filters }
                                     style={{ background: ongoing ? "#ff9800" : "#28E745"}}
                                 />
                                 <img 
-                                    src={cover}
+                                    src={`http://173.255.241.150:3000/proxy?url=${cover}`}
                                     alt={id}
                                     className="ml-auto h-full aspect-[2/3] rounded-md object-cover shadow-xl"
                                 />                            
@@ -64,13 +64,13 @@ const MangaList: React.FC<MangaListProps> = ({ mangas, status, search, filters }
                         <DialogContent className="p-0">
                             <div className="relative h-[300px] flex justify-center items-center overflow-hidden">
                                 <img 
-                                    src={cover}
+                                    src={`http://173.255.241.150:3000/proxy?url=${cover}`}
                                     alt={id}
                                     className="absolute inset-0 w-full h-full object-cover blur-md filter brightness-75"
                                 />   
                                 <div className="relative flex h-[90%] max-w-[90%] gap-4">
                                     <img 
-                                        src={cover}
+                                        src={`http://173.255.241.150:3000/proxy?url=${cover}`}
                                         alt={id}
                                         className="h-full aspect-[2/3] rounded-md object-cover shadow-lg"
                                     />  
